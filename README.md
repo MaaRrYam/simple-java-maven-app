@@ -1,4 +1,4 @@
-access token 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
+access token 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
 
 # simple-java-maven-app
 
